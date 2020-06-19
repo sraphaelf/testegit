@@ -22,5 +22,6 @@ namespace TesteGit
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }
